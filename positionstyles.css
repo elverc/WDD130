@@ -170,7 +170,7 @@
 } 
 /* Activity 5 styles */ 
 .content5 {
-display: grid;
+display: none;
 }
 .red5 { 
   width: 100%; 
